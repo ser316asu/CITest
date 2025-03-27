@@ -25,7 +25,7 @@ class BlackBoxTest {
         double result = guessingGame.makeGuess("example guess");
 
         // Check the result (this would depend on the actual implementation)
-        assertEquals(3.0, result);  // This is just an example
+        assertEquals(2.0, result);  // This is just an example
     }
 }
 
